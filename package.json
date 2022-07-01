@@ -1,7 +1,7 @@
 {
   "name": "@newlogic/angular-gettext-tools",
   "description": "Tools for extracting/compiling angular-gettext strings.",
-  "version": "2.3.6",
+  "version": "2.3.7",
   "homepage": "http://angular-gettext.rocketeer.be/",
   "author": "Ruben Vermeersch <ruben@rocketeer.be> (http://rocketeer.be)",
   "repository": {
