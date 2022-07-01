@@ -1,7 +1,7 @@
 {
   "name": "@newlogic/angular-gettext-tools",
   "description": "Tools for extracting/compiling angular-gettext strings.",
-  "version": "2.3.7",
+  "version": "2.3.8",
   "homepage": "https://github.com/newlogic/angular-gettext-tools",
   "author": "Newlogic (https://newlogic.com)",
   "repository": {
