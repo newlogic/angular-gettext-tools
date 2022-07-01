@@ -2,14 +2,14 @@
   "name": "@newlogic/angular-gettext-tools",
   "description": "Tools for extracting/compiling angular-gettext strings.",
   "version": "2.3.7",
-  "homepage": "http://angular-gettext.rocketeer.be/",
-  "author": "Ruben Vermeersch <ruben@rocketeer.be> (http://rocketeer.be)",
+  "homepage": "https://github.com/newlogic/angular-gettext-tools",
+  "author": "Newlogic (https://newlogic.com)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rubenv/angular-gettext-tools.git"
+    "url": "git://github.com/newlogic/angular-gettext-tools.git"
   },
   "bugs": {
-    "url": "https://github.com/rubenv/angular-gettext-tools/issues"
+    "url": "https://github.com/newlogic/angular-gettext-tools/issues"
   },
   "license": "MIT",
   "main": "index.js",
